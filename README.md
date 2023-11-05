@@ -1,8 +1,5 @@
 
-
-
 https://github.com/Hoang-Phuc-Tran/Drawing-Program/assets/120700092/87050438-e8d0-4117-9739-bf17da47e341
-
 
 # Interactive Drawing Application
 
